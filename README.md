@@ -33,7 +33,7 @@ Caso você já tenha a Branch develop:
 Caso você não tenha a Branch develop:
 
 ```bash
-1. git branch develop
+1. git checkout -b develop
 2. #adicione alguns commits caso seja necessário utilizando git add e git commit -m "tipo(escopo): mensagem"
 3. git push origin develop
 ```
@@ -41,7 +41,7 @@ Caso você não tenha a Branch develop:
 ### 2. Criar e Mudar para uma Nova Branch de Feature (Funcionalidade):
 
 ```bash
-1. git branch  feature/autenticar-usuario
+1. git checkout -b feature/autenticar-usuario
 2. git add autenticar-usuario.js
 3. git commit -m "feat: Autenticar Usuário"
 4. git push origin feature/autenticar-usuario
