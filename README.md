@@ -5,20 +5,22 @@ Bem-vindo ao **Git Mastery**, um repositório que reúne tudo o que você precis
 ## 📁 Estrutura do Repositório
 
 ```bash
-📦 git-mastery
-├── 📜 README.md           # Introdução ao projeto
-├── 📜 CONTRIBUTING.md     # Guia para contribuidores
-├── 📜 LICENCE.md          # Licença do projeto
-├── 📂 docs                # Documentação detalhada
-│   ├── git-basics.md      # Comandos básicos do Git
-│   ├── branching.md       # Estratégias de branch
-│   ├── gitflow.md         # Guia completo sobre GitFlow
-│   ├── github-actions.md  # Introdução ao GitHub Actions
-│   ├── troubleshooting.md # Solução de problemas comuns
-├── 📂 examples            # Exemplos práticos e scripts
-│   ├── hooks             # Exemplos de Git Hooks
-│   ├── workflows         # Exemplos de Workflows no GitHub Actions
-└── 📂 assets              # Imagens e diagramas
+📦 Git Mastery 🔥/
+ ┣ 📁 git/                     # Tudo sobre Git  
+ ┃ ┣ 📂 🏗️ conceitos/          # Fundamentos e arquitetura do Git  
+ ┃ ┣ 📂 📝 comandos/           # Lista de comandos úteis do Git  
+ ┃ ┣ 📂 ⚙️ configuracao-basica/ # Configuração inicial do Git  
+ ┃ ┣ 📂 🔧 gitconfig/          # Explicação sobre o .gitconfig e exemplos  
+ ┃ ┗ 📂 🎯 githooks/            # Git Hooks: Automação e personalização  
+ ┣ 📁 🔀 gitflow/              # Estrutura e boas práticas do GitFlow  
+ ┣ 📁 🌍 github/               # Recursos e funcionalidades do GitHub  
+ ┃ ┣ 📂 📦 repositorios/       # Como criar, clonar e gerenciar repositórios  
+ ┃ ┣ 📂 🌿 branches/           # Boas práticas no uso de branches no GitHub  
+ ┃ ┗ 📂 🤝 pull-requests/      # Guia sobre Pull Requests (PRs)  
+ ┣ 📁 ⚡ githubactions/        # Automação com GitHub Actions  
+ ┣ 📁 🤖 workflows/            # Modelos e exemplos de workflows automáticos  
+ ┗ 📜 README.md                # Documentação principal do projeto  
+
 ```
 
 ## 🛠 O que você vai encontrar aqui?
